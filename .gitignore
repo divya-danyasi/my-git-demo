@@ -1,9 +1,9 @@
-
+i
 #ignore pfdfs from the repo
 *.pdf
 
 #ignore any file starting with abc
 [abc].docx
 
-
+*.jar
 
