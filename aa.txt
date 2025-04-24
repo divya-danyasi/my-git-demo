@@ -1,3 +1,0 @@
-
-this is sample file for remote repo
-this is modified line

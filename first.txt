@@ -1,6 +1,0 @@
-
-this is my first file with git
-
-this is my 2nd edit
-
-this is updated line
